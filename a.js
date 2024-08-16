@@ -32,7 +32,7 @@ const handleButtonClick = (value)=>{
         // inputField.value = result;
     }
     else{
-        inputField.value += value;//appends the values
+        inputField.value += value;//appends the value
     }
 }
 
